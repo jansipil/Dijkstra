@@ -1,0 +1,28 @@
+Esimerkkitiedostoja vastaavat tulosteet
+Output corresponding to example files
+
+Tiedosto			Maksimikuorma
+File				Maximum load
+
+graph_tiny_1.txt  		14
+graph_tiny_2.txt  		42
+graph_tiny_3.txt  		No route
+graph_tiny_4.txt  		No route
+graph_tiny_5.txt  		17
+
+graph_mid_1.txt  		63
+graph_mid_2.txt  		40
+graph_mid_3.txt  		42
+graph_mid_4.txt  		55
+graph_mid_5.txt  		37
+graph_mid_6.txt  		57
+graph_mid_7.txt  		69
+
+graph_big_1.txt  		53
+graph_big_2.txt  		60
+graph_big_3.txt  		58
+graph_big_4.txt  		27
+graph_big_5.txt  		65
+graph_big_6.txt  		186
+graph_big_7.txt  		183
+graph_big_8.txt  		Maximum load = 0 / No route 

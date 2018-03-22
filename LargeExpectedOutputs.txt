@@ -1,0 +1,16 @@
+Expected output for large graphs
+
+graph_large_100.txt		60
+graph_large_100_2.txt		60
+graph_large_100_3.txt		65
+graph_large_150.txt		63
+graph_large_150_2.txt		64
+graph_large_200.txt		57
+graph_large_200_2.txt		66
+graph_large_300.txt		59
+graph_large_300_2.txt		63
+graph_large_400.txt		61
+graph_large_500.txt		92
+graph_large_750.txt		65
+graph_large_1000.txt		82
+graph_large_1000_2.txt		61
